@@ -177,3 +177,10 @@ font-weight: 300;
     background: #303841;
     border-top: 3px solid #be3144;
 }
+
+@media (max-width: 400px) {
+  footer {
+    flex-direction: column;
+    text-align: center;
+  }
+}
