@@ -1,6 +1,7 @@
 # Portfolio
 
 Welcome to my Portfolio
+
 This webpage was created as a part of the exercises for the Responsive Web Design Certification. Technologies used: HTML, CSS
 
 # Files
