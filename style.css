@@ -85,6 +85,7 @@ height: 100vh;
   height: fit-content;
 }
 
+
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -116,10 +117,26 @@ a:hover {
     object-fit: cover;
 }
 
+.img-CB {
+  height: auto;
+  padding-bottom: 35%
+}
+
+.aCB {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+
 .project-title {
     font-size: 2rem;
     padding: 2rem 0.5rem;
     text-align: center;
+}
+
+.pr-tit-1 {
+ 
 }
 
 
